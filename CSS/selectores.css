@@ -1,0 +1,13 @@
+.bloques-fondo-verde{
+    background-color: green;
+}
+#bloque-fondo-rojo{
+    background-color: #e61a1a;
+}
+.fondo-negro{
+    background-color: black;
+}
+p{
+    color:  white;
+    font-weight: bold;
+}
