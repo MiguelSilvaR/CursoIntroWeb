@@ -1,0 +1,33 @@
+.padre{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 2px solid blue;
+    height:  150px;
+    align-content: center;
+    justify-content: center;
+}
+.hijo{
+    border: 2px solid red;
+    width: 40px;
+    height: 40px
+}
+.caja-hijo{
+    border: 2px solid red;
+    width: 40px;
+    height: 40px
+}
+.caja-padre{
+    border: 2px solid blue ;
+}
+.padre-row{
+    display: flex;
+    flex-flow: row nowrap;
+    border: 2px solid purple;
+    height: 20vh;
+}
+.hijo-row{
+    flex-grow: 1;
+    border: 2px solid blue;
+}
+    
