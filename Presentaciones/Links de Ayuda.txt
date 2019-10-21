@@ -9,6 +9,9 @@ CSS
 Flexbox
  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+JavaScript
+ - https://www.youtube.com/watch?v=RqQ1d1qEWlE
+
 Curso Diseño Web
  - https://www.udemy.com/course/diseno-web/
 
