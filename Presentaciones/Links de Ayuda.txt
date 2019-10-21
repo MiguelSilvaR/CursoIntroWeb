@@ -17,3 +17,11 @@ Curso Diseño Web
 
 El gran libro de HTML5, CSS3 y JavaScript
  - https://gutl.jovenclub.cu/wp-content/uploads/2013/10/El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf
+
+Bootstrap 4
+ - Página de bootstrap
+	- https://getbootstrap.com/
+ -jQuery (Necesario para Bootstrap 4)
+	- https://jquery.com/download/
+ -Popper.js (Necesario para Bootstrap 4) (Para descargarlo dan click derecho y luego seleccionan Guardar como...)
+	- https://unpkg.com/popper.js
