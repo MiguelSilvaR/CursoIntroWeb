@@ -1,0 +1,12 @@
+¿Qué sigue?
+- Profundizar en HTML, CSS, JS y Bootstrapp
+- SASS
+- jQuery
+- php
+- nodejs
+- mySQL
+
+FRAMEWORKS Avanzados
+- Electron
+- React
+- Angular
